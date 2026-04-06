@@ -70,12 +70,12 @@ Then open your browser at `http://localhost:8501`
 
 ## Features
 
-- ✅ Multiple ML models (Naive Bayes, SVM, Logistic Regression, Random Forest)
-- ✅ Interactive Streamlit web interface
-- ✅ Real-time spam/ham classification
-- ✅ Model selection dropdown
-- ✅ High accuracy (99%+)
-- ✅ Fast predictions
+-  Multiple ML models (Naive Bayes, SVM, Logistic Regression, Random Forest)
+-  Interactive Streamlit web interface
+-  Real-time spam/ham classification
+-  Model selection dropdown
+-  High accuracy (99%+)
+-  Fast predictions
 
 ## Technologies Used
 
@@ -96,9 +96,9 @@ Then open your browser at `http://localhost:8501`
 
 ## Author
 
-Divyanshu Yadav
-Vaibhav Sharma
-Raj Kanoi
+Divyanshu Yadav ||
+Vaibhav Sharma  ||
+Raj Kanoi      
 
 ## License
 
